@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\RegExp\RegExp\bin\Debug\RegExp.exe.config
+C:\Users\pc\source\repos\RegExp\RegExp\bin\Debug\RegExp.exe
+C:\Users\pc\source\repos\RegExp\RegExp\bin\Debug\RegExp.pdb
+C:\Users\pc\source\repos\RegExp\RegExp\obj\Debug\RegExp.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\RegExp\RegExp\obj\Debug\RegExp.Form1.resources
+C:\Users\pc\source\repos\RegExp\RegExp\obj\Debug\RegExp.Properties.Resources.resources
+C:\Users\pc\source\repos\RegExp\RegExp\obj\Debug\RegExp.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\RegExp\RegExp\obj\Debug\RegExp.exe
+C:\Users\pc\source\repos\RegExp\RegExp\obj\Debug\RegExp.pdb
+C:\Users\pc\source\repos\RegExp\RegExp\obj\Debug\RegExp.csproj.CoreCompileInputs.cache
